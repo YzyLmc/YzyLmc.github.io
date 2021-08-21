@@ -3,62 +3,33 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
-Current Position Description
-
 ## Education
+`2018 - Now`
+__Northeastern University, Boston, MA__ <br>
+Master of Science in Robotics - Computer Science <br>
+Courses: Machine Learning, Reinforcement Learning, Artificial Intelligence, Robotic Science and System, Robotic Sensing and Navigation, Control System Engineering, Mathematical Methods
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
-
-`2012`
-Name of Award, Organization 
+`2014 - 2018`
+__Northeastern University(CN), Shenyang, China__ <br>
+Bachelor of Engineering in Mechanical Engineering <br>
+Courses: Control Principles of Mechanical Engineering, Introduction to Robotics technology, C Programming Language, Probability Theory, Machine Design, Sensors & Testing Technology
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Work Experience
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
+`Jan 2021-Current`
+__Research Assistant__ <br>
+GRAIL Lab, Northeastern University, Boston
 
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`Jan-May 2020 & Jan-May 2021`
+__Teaching Assistant__ <br>
+Northeastern University, Boston
 
 - Task
 - Task
@@ -68,5 +39,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
