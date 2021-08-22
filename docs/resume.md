@@ -23,16 +23,15 @@ Courses: Control Principles of Mechanical Engineering, Introduction to Robotics 
 `Jan 2021-Current`
 __Research Assistant__ <br>
 GRAIL Lab, Northeastern University, Boston
-
 - Task
 - Task
 
 `Jan-May 2020 & Jan-May 2021`
 __Teaching Assistant__ <br>
 Northeastern University, Boston
-
-- Task
-- Task
+- Configured and tested various robots (e.g., TurtleBot, Duckie Town, WidowX) and environments for course project
+- Designed coding assignments regarding topics of the course (e.g., robotics kinematics, path planning. robot vision)
+- Mentored students on their homework and provided help on their course project accordingly
 
 
 
