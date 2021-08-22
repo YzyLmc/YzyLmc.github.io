@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Ziyi's Page
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Ziyi Yang
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "master student in Robotics - Computer Science"
+  email: yang.ziyi2@northeastern.edu #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
-  github: #username
+  linkedin: https://www.linkedin.com/in/ziyi-yang-mechanical/ #username
+  github: https://github.com/YzyLmc #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
