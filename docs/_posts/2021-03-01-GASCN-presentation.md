@@ -8,7 +8,21 @@ tags: [presentation]
 category: presentation
 ---
 _Haojie Huang, **Ziyi Yang**, Robert Platt*_
-## 3D Shape completion
+
+## Table of Contents
+  * [3D Shape Completion](#3d-shape-completion)
+  * [Related Works](#related-works)
+  * [Model](#model)
+    * [General Structure](#general-structure)
+    * [Encoder Structure](#encoder-structure)
+    * [Decoder Structure](#decoder-structure)
+  * [Experiments](#experiments)
+    * [Quantitative Result](#quantitative-result)
+    * [Qualitative Result](#qualitative-result)
+  * [More information](#more-information)
+
+---
+## 3D Shape Completion
 3D shape completion from partial point clouds is a fundamental problem in computer vision and computer graphics. Recent approaches can be characterized as either data-driven or learning-based. Data-driven approaches rely on a shape model whose parameters are optimized to fit the observations. Learning-based approaches, in contrast, avoid the expensive optimization step and instead directly predict the complete shape from the incomplete observations using deep neural networks. [\[Stutz et al.\]](https://davidstutz.de/wordpress/wp-content/uploads/2018/04/shape-completion-cvpr2018-paper.pdf)
 
 ![shapecompletion](/images/pcn.png)
