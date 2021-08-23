@@ -7,7 +7,7 @@ excerpt: A shape completion network utilizes graph attention and surface normal
 tags: [presentation]
 category: presentation
 ---
-_Haojie Huang, **Ziyi Yang**, Robert Platt_
+_Haojie Huang, **Ziyi Yang**, Robert Platt*_
 ## 3D Shape completion
 3D shape completion from partial point clouds is a fundamental problem in computer vision and computer graphics. Recent approaches can be characterized as either data-driven or learning-based. Data-driven approaches rely on a shape model whose parameters are optimized to fit the observations. Learning-based approaches, in contrast, avoid the expensive optimization step and instead directly predict the complete shape from the incomplete observations using deep neural networks. [\[Stutz et al.\]](https://davidstutz.de/wordpress/wp-content/uploads/2018/04/shape-completion-cvpr2018-paper.pdf)
 

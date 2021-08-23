@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Natural Language for Human-Robot Collaboration：Problems Beyond Language Grounding
+title: On-Going>>  Improving Vision-based Text Generation by Multi-modal Reinforcement Learning
 excerpt: A blue sky paper points out challenges and opportunities in human-robot interaction, in the context of vision-language navigation.
 # theme: simple
 
 tags: [presentation]
 category: presentation
 ---
-_Maxwell Love, Seth Pate, Wei Xu, **Ziyi Yang**, Lawson Wong*_
+_Maxwell Love, Seth Pate, Wei Xu, **Ziyi Yang**, Lawson Wong_
 ## Reveal.js and Jekyll Academic
 ---
 ## HTML or Markdown

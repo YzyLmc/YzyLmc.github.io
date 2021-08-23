@@ -11,7 +11,7 @@ Courses: Machine Learning, Reinforcement Learning, Artificial Intelligence, Robo
 
 
 `2014 - 2018`
-__Northeastern University(CN), Shenyang, China__ <br>
+__Northeastern University (CN), Shenyang, China__ <br>
 Bachelor of Engineering in Mechanical Engineering <br>
 Courses: Control Principles of Mechanical Engineering, Introduction to Robotics technology, C Programming Language, Probability Theory, Machine Design, Sensors & Testing Technology
 
