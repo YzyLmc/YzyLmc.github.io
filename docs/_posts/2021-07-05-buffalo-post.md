@@ -48,7 +48,7 @@ On the Maid of the Mist ferry, a beautiful rainbow on the Horseshoe Falls.
 ---
 ![niagara29](/images/buffalo/buffalo29.jpeg)
 
-Under the Bridal Veils, outside the Cave of the Winds, the water-flow was so strong that I can barely take a picture
+Under the Bridal Veils, outside the Cave of the Winds, the water-flow was so strong that I can barely take a picture。
 
 ---
 ![niagara19](/images/buffalo/buffalo19.jpg)

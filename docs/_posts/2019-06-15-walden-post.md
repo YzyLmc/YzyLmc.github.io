@@ -42,4 +42,4 @@ A historical trunk. (1837-2015)
 ---
 ![walden34](/images/walden/walden34.jpeg)
 
-An lovely traffic sign.
+An interesting traffic sign.
