@@ -9,7 +9,7 @@ __Northeastern University, Boston, MA__ <br>
 Master of Science in Robotics - Computer Science <br>
 Courses: Machine Learning, Reinforcement Learning, Artificial Intelligence, Robotic Science and System, Robotic Sensing and Navigation, Control System Engineering, Mathematical Methods
 
-
+---
 `2014 - 2018`
 __Northeastern University (CN), Shenyang, China__ <br>
 Bachelor of Engineering in Mechanical Engineering <br>
@@ -17,7 +17,9 @@ Courses: Control Principles of Mechanical Engineering, Introduction to Robotics 
 
 
 ## Research Experience
+_Keyword: Vision-Language navigation, Text Generation, Reinforcement Learning, Robotics_
 
+---
 `Jan 2021-Now`
 __Improving Vision-based Text Generation by Multi-modal Reinforcement Learning__ <br>
 GRAIL lab, Northeastern University, Boston, MA
@@ -25,7 +27,7 @@ GRAIL lab, Northeastern University, Boston, MA
 - Reproduced and improved compatibility model by implementing more robust approach on hard negative mining
 - Investigated in training the model with GAN structure by combining the compatibility model with the generation model
 
-
+---
 `Jan-Jul 2021`
 __Natural Language for Human-Robot Collaboration: Problems Beyond Language Grounding__ <br>
 [<ins>*(Submitted to CoRL, 2021, Blue Sky)*</ins>](https://openreview.net/pdf?id=j6oOhhGtFbl) GRAIL lab, Northeastern University, Boston, MA
@@ -33,7 +35,7 @@ __Natural Language for Human-Robot Collaboration: Problems Beyond Language Groun
 - Proposed baseline models in each subtask as reference for further research respectively
 - Built dataset for localization task from Room2Room dataset with object detector
 
-
+---
 `Oct 2020-Mar 2021`
 __GASCN: Graph Attention Shape Completion Network__ <br>
 [<ins>*(Submitted to 3DV, 2021)*</ins>](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view) Northeastern University, Boston, MA
@@ -42,14 +44,14 @@ __GASCN: Graph Attention Shape Completion Network__ <br>
 - Built dataset from ShapeNet by transforming depth images at 8 different camera poses around the object into point cloud
 - Carried out performance comparison over different shape completion baselines
 
-
+---
 `Oct 2020`
 __A Study of Policy Gradient Methods for Seq2Seq Model in Neural Machine Translation__ <br>
 Northeastern University, Boston, MA
 - Implemented REINFORCE and Actor-Critic in Seq2Seq NMT models training from scratch
 - Verified the limitation of using BLEU score as reward in RL methods for NMT both practically and theoretically
 
-
+---
 `Apr 2020`
 __Feature-Based Stereo Visual Odometry__ <br>
 Northeastern University, Boston, MA
@@ -65,7 +67,7 @@ GRAIL Lab, Northeastern University, Boston, MA
 - Enhance the pre-trained speaker model for vision-language generation (VLN) with reinforcement learning
 - Rendzevous group project: Combining localization, planning, and language generation
 
-
+---
 `Jan-May 2020 & Jan-May 2021`
 __Teaching Assistant__ <br>
 Northeastern University, Boston, MA
@@ -73,7 +75,7 @@ Northeastern University, Boston, MA
 - Designed coding assignments regarding topics of the course (e.g., robotics kinematics, path planning. robot vision)
 - Mentored students on their homework and provided help on their course project accordingly
 
-
+---
 `Jul-Dec 2019`
 __Engineering Tech Co-op__ <br>
 Analogic, Peabody, MA
@@ -81,7 +83,7 @@ Analogic, Peabody, MA
 - Conducted and implied modification for better airflow arrangement inside security device for heat dissipation by adding duct system and changing HVAC load
 - Designed and implied different tests on DNA analysis device to acquire stronger robustness
 
-
+---
 `Aug-Sep 2017`
 __Assistant Design Engineer__ <br>
 Beiyu MEchanical Equipment Co., Beijing, China
