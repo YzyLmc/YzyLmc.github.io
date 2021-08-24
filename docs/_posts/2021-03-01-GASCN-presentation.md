@@ -62,4 +62,4 @@ Visual Results Comparison. A partial point cloud is given and our method generat
 
 ---
 ## More Information
-The complete version of our paper is available at [here](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view). It's still under review, and we'll release the codes later.
+The complete version of our paper is available at [here](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view). It's still under review, and we'll release the code later.

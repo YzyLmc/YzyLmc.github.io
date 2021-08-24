@@ -8,6 +8,16 @@ tags: [presentation]
 category: presentation
 ---
 _Maxwell Love, Seth Pate, Wei Xu, **Ziyi Yang**, Lawson Wong*_
+
+## Table of Contents
+  * [Rendezvous](#rendezvous)
+  * [Dataset & Evaluation](#dataset--evaluation)
+  * [Baseline Results](#baseline-results)
+    * [Localization](#localization)
+    * [Generation](#generation)
+  * [More Information](#more-information)
+
+---
 ## Rendezvous
 Effective collaboration requires two-way communication. To enable the widespread adoption of collaborative robots, they need to be able to communicate effectively with non-expert human users. Natural language is an expressive and effective medium for communicating with humans, since it does not require additional training for the user. Natural language is already used in numerous robotics applications, including some ongoing projects within Prof. Lawson Wong’s group. However, most existing work focuses on one-way communication: from human to robot. In contrast, work on the reverse direction of robot-to-human communication is sparse. This research project involves an application that requires two-way communication via natural language.
 
