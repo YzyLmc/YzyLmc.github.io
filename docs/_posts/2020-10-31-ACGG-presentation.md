@@ -8,7 +8,15 @@ tags: [presentation]
 category: presentation
 ---
 ## Table of Contents
-
+  * [Introduction](#introduction)
+    * [Seq2Seq Model](#seq2seq-model)
+    * [BLEU](#bleu)
+    * [Problems of Standard NMT Model](#problems-of-standard-nmt-model)
+  * [REINFORCE in Seq2Seq](#reinforce-in-seq2seq)
+  * [Actor-Critic in Seq2Seq](#actor-critic-in-seq2seq)
+  * [Summary](#summary)
+  * [More Details](#more-details)
+  
 ---
 ## Introduction
 ### Seq2Seq Model
@@ -37,7 +45,9 @@ However, in the evaluation phase, we won't have access to the ground truth and a
 
 ---
 ## REINFORCE in Seq2Seq
+REINFORCE is a very classical policy gradient method.
 ![reinforce](/images/reinforce.png)  
+Since REINFORCE is a Monte-Carlo algorithm and the nature of this NMT task, we will only receive the reward and do the update only at the end of each episode, thus the reward we recieve is very sparse. In order to make the reward less sparse, we have to do reward shaping, in which we will define intermediate reward for each intermediate steps within an episode.  
 ![rl_train](/images/rl_train.png)  
 After converged, reinforcement learning model has 10.48 BLEU-3 score on test set, while supervised learning model has 10.23.  
 ![rl_sample](/images/rl_sample.png)
@@ -48,3 +58,22 @@ __Analysis:__ We can see that SL model performs slightly better during the train
 
 ---
 ## Actor-Critic in seq2seq
+Similarly as REINFORCE towards Monte-Carlo, Actor-critic is an algorithm that use temporal difference to update the policy, and there will be a critic network serves as value function, instead of doing reward shaping and calculating cumulative reward as return for each timestep.
+![ac](/images/ac.png)  
+Here is the general structure of Actor-Critic model:  
+![ac_model](/images/ac_model.png)  
+The actor and the critic will both be encoder-decoder based seq2seq model, and the actor network is almost the same as the seq2seq model in REINFORCE. The critic network takes in the ground truth at encoding phase, and the outputs of the actor network at decoding phase (I removed the input summary calculated by attention mechanism, haven't known of the effect of this change). We hope that the critic network will learn the state value defined as the future expected return for each state, and then the actor will update the policy based on the temporal difference.  
+![ac_train](/images/ac_train.png)  
+The pretraining goes very well; the actor has been trained to have performance of 0.05 on BLEU-3 score, and the critic could also converge using the fixed actor and make reasonable prediction. However, when it comes to algorithm 1 (the major training part) the model appears to learn nothing and stay at the pretrained performance. I believe that the failure is mostly because of the so many modification I've made to the algorithm, especially the bellman update formulation -- there must be a reason for them to use it instead of simple prediction for value of next state.  
+
+__Analysis:__  Though I didn't make the Actor-Critic model work in experiment, we can still learn from it. Actor-Critic algorithm aims at using a critic network to optimize the policy and at the same time exploit the environment. In the paper, they construct a powerful model which not only complete the NMT task but also able to deal with spelling correction (this is also a part of the reason that I think I can make it still work even without several components). Through the algorithm, they use Bellman update everywhere and sum over the action space several times per iteration. This is like a trading computation resource for performance (low variance, bias) to me, and I do think there should be a way to trade this computation resource back.
+
+---
+## Summary
+
+Through this project, I learnt standard training methods and reinforcement learning implementations on NMT, by reading papers and going through tutorials. After that, I reproduce the REINFORCE and Actor-Critic approach from scratch (REINFORCE works but Actor-Critic doesn't), and then did analysis and comparison between the two models. A high-level conclusion is that RL has a great potential in NMT field, and it will be great to participate in future investigation in RL in NMT. After this project I will keep doing research with RL in Seq2Seq model, and this project definitely has benefited me a lot.
+
+---
+## More Details
+
+The full report is available [here](https://www.overleaf.com/read/zhymqnxpcpnq), and the codebase is available on [my github](https://github.com/YzyLmc/CS5180/tree/master/Project).
