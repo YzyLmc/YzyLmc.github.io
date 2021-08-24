@@ -37,26 +37,26 @@ To the best of our knowledge, we are the first to directly combine the graph-lev
 
 ----
 ## Model
-#### General Structure
+### General Structure
 
 ![model_structure](/images/model.png)
 
 The architecture of GASCN. It has a graph-based encoder that integrates each point’s local information with the point cloud’s global structure information. The decoding process utilizes surface normals and coarse points to rotate and translate adaptive 3D grids to densify coarse point clouds.
-#### Encoder Structure
+### Encoder Structure
 ![encoder](/images/encoder.png)
 
 Graph-based Encoder of GASCN model. It encodes each node feature with its neighbors’ information by graph attention layer, its mapped Cartesian feature by point-wise MLP, and two types of global vectors, extracted from the max-pooling operation.
-#### Decoder Structure
+### Decoder Structure
 ![decoder](/images/decoder.png)
 
 Decoder Architecture. The coarse points decoder consists of three fully connected layers. The normal decoder takes as inputs the mapped coarse point coordinate, its neighbors’ information, and the mapped global vector. The sigma decoder takes as inputs the normal internal embeddings, and then applies three pointwise MLP layers to output pointwise-attentive sigmas.
 
 ---
 ## Experiments
-#### Quantitative Result
+### Quantitative Result
 ![quantitative](/images/quant.png)
 Point completion results comparison on ShapeNet using Chamfer Distance (CD) with L2 norm computed on 16,384 points and multiplied by 10^3. The best results are highlighted in bold.
-#### Qualitative Result
+### Qualitative Result
 ![qualitative](/images/quali.png)
 Visual Results Comparison. A partial point cloud is given and our method generates better complete point clouds.
 
