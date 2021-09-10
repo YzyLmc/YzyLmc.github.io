@@ -54,4 +54,5 @@ __REINFORCE:__ Starting with the pretrained generator above, uses the REINFORCE 
 
 ---
 ## More information
-This work has been submitted to CoRl and AI-HRI ([CoRL Blue Sky submission on Openreview](https://openreview.net/forum?id=j6oOhhGtFbl)). I'm continuing on the topic of improving the performance of the generator by RL, see my latest post for more details.
+This work has been submitted to CoRl and AI-HRI ([CoRL Blue Sky submission on Openreview](https://openreview.net/forum?id=j6oOhhGtFbl)). I'm continuing on the topic of improving the performance of the generator by RL, see my latest post for more details.  
+<span style="color:green">UPDATE 09/09/2021</span>: This paper has been accepted by AAAI Fall Symposium on AI for HRI.

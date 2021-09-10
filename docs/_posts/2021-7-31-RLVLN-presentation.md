@@ -14,7 +14,7 @@ category: presentation
     * [Language Generation in Vision-Language Generation](#language-generation-in-vision-language-generation)
   * [Proposed Method](#proposed-method)
   * [Progress](#progress)
-  
+
 ---
 ## Introduction
 ### RL in Language Generation
@@ -65,4 +65,6 @@ For reproducing the compatibility model from Zhao et al, I've spent a month on r
 
 Combining different reward functions is cool, but it will also be hard to evaluate. Inspired by 'Language GANs falling Short', I'm training multiple model with different hyperparameter combinations and plotting a 'BERTScore-VLN agent sweep' curve. Ideally, all the points on the sweep curve will achieve higher BERTScore and shorter distance toward the goal point, and this will no be outperformed by any point of the temperature sweep curve of the MLE model.  
 
-(UPDATED:08/15)
+![SWEEP](/images/sweep.png)  
+A draft BERTScore-VLN sweep versus MLE temperature sweep. We indeed trained the model to a position that could never be reached by changing temperature.  
+(UPDATED:09/09)
