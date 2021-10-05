@@ -38,7 +38,7 @@ __Natural Language for Human-Robot Collaboration: Problems Beyond Language Groun
 ---
 `Oct 2020-Mar 2021`
 __GASCN: Graph Attention Shape Completion Network__ <br>
-[<ins>*(Submitted to 3DV, 2021)*</ins>](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view) Northeastern University, Boston, MA
+[<ins>*(Accepted to 3DV, 2021)*</ins>](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view) Northeastern University, Boston, MA
 - Proposed a novel shape completion model uses graph representation and attention-based permutation-invariant network
 - Introduced surface normal and adaptive grid to coarse-to-dense phase for decoding refined point cloud
 - Built dataset from ShapeNet by transforming depth images at 8 different camera poses around the object into point cloud
