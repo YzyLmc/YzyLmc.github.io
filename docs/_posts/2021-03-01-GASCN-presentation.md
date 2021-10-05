@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GASCN：Graph Attention Shape Completion Network
+title: <b>[</b>Accepted by 3DV, 2021<b>]</b> GASCN<b>:</b> Graph Attention Shape Completion Network
 excerpt: A shape completion network utilizes graph attention and surface normal
 # theme: simple
 
@@ -62,4 +62,4 @@ Visual Results Comparison. A partial point cloud is given and our method generat
 
 ---
 ## More Information
-The complete version of our paper is available at [here](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view). It's still under review, and we'll release the code later.
+ <span style="color:green">UPDATE 10/03/2021</span>: This paper has been accepted by 3DV, 2021. The complete version of our paper is available at [here](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view).

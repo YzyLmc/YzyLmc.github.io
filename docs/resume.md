@@ -30,7 +30,7 @@ GRAIL lab, Northeastern University, Boston, MA
 ---
 `Jan-Jul 2021`
 __Natural Language for Human-Robot Collaboration: Problems Beyond Language Grounding__ <br>
-[<ins>*(Submitted to CoRL, 2021, Blue Sky)*</ins>](https://openreview.net/pdf?id=j6oOhhGtFbl) GRAIL lab, Northeastern University, Boston, MA
+[<ins>*(Accepted by AI-HRI, 2021)*</ins>](https://drive.google.com/file/d/1mF2wV6LW7LyyH78HCb4L1iXLFyzfgul_/view?usp=sharing) GRAIL lab, Northeastern University, Boston, MA
 - Identified shortcomings and opportunities for localization, planning, and language generation in human-robot collaboration in the context of vision-language navigation
 - Proposed baseline models in each subtask as reference for further research respectively
 - Built dataset for localization task from Room2Room dataset with object detector

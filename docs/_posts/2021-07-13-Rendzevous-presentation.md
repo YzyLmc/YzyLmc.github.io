@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Natural Language for Human-Robot Collaboration：Problems Beyond Language Grounding
-excerpt: A blue sky paper points out challenges and opportunities in human-robot interaction, in the context of vision-language navigation.
+title: <b>[</b>Accepted by AI-HRI, 2021<b>]</b> Natural Language for Human-Robot Collaboration：Problems Beyond Language Grounding
+excerpt: A blue sky paper points out challenges and opportunities in human-robot interaction, in the context of vision-language navigation
 # theme: simple
 
 tags: [presentation]
@@ -19,7 +19,7 @@ _Maxwell Love, Seth Pate, Wei Xu, **Ziyi Yang**, Lawson Wong*_
 
 ---
 ## Rendezvous
-Effective collaboration requires two-way communication. To enable the widespread adoption of collaborative robots, they need to be able to communicate effectively with non-expert human users. Natural language is an expressive and effective medium for communicating with humans, since it does not require additional training for the user. Natural language is already used in numerous robotics applications, including some ongoing projects within Prof. Lawson Wong’s group. However, most existing work focuses on one-way communication: from human to robot. In contrast, work on the reverse direction of robot-to-human communication is sparse. This research project involves an application that requires two-way communication via natural language.
+Effective collaboration requires two-way communication. To enable the widespread adoption of collaborative robots, they need to be able to communicate effectively with non-expert human users. Natural language is an expressive and effective medium for communicating with humans, since it does not require additional training for the user. Natural language is already used in numerous robotics applications, including some ongoing projects within Prof. Lawson Wong’s group. However, most existing work focuses on one-way communication: from human to robot. In contrast, work on the reverse direction of robot-to-human communication is sparse. This research project involves an application that requires two-way communication via natural language.a
 
 ![rendezvous](/images/rdv.png)
 
@@ -54,5 +54,5 @@ __REINFORCE:__ Starting with the pretrained generator above, uses the REINFORCE 
 
 ---
 ## More information
-This work has been submitted to CoRl and AI-HRI ([CoRL Blue Sky submission on Openreview](https://openreview.net/forum?id=j6oOhhGtFbl)). I'm continuing on the topic of improving the performance of the generator by RL, see my latest post for more details.  
+This work has been submitted to AI-HRI ([our AI-HRI submission](https://drive.google.com/file/d/1mF2wV6LW7LyyH78HCb4L1iXLFyzfgul_/view?usp=sharing)). I'm continuing on the topic of improving the performance of the generator by RL, see my latest post for more details.  
 <span style="color:green">UPDATE 09/09/2021</span>: This paper has been accepted by AAAI Fall Symposium on AI for HRI.
