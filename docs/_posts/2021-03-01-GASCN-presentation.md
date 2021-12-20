@@ -62,4 +62,4 @@ Visual Results Comparison. A partial point cloud is given and our method generat
 
 ---
 ## More Information
- <span style="color:green">UPDATE 10/03/2021</span>: This paper has been accepted by 3DV, 2021. The complete version of our paper is available at [here](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view).
+ <span style="color:green">UPDATE 10/03/2021</span>: This paper has been accepted by 3DV, 2021. The complete version of our paper is available at [here](https://3dv2021.surrey.ac.uk/papers/095.html).

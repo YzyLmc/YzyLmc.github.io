@@ -21,16 +21,17 @@ _Keyword: Vision-Language navigation, Text Generation, Reinforcement Learning, R
 
 ---
 `Jan 2021-Now`
-__Improving Vision-based Text Generation by Multi-modal Reinforcement Learning__ <br>
+__Improving Instruction Generation for Vision-Language Navigation by Reward Designing__ <br>
 GRAIL lab, Northeastern University, Boston, MA
 - Proposed a new method to enhance the performance of language generation model for vision-language navigation by using REINFORCE with multi-modal rewards (BERTScore, VLN agents, ANN scorer)
+-	Conducted comparison between REINFORCE model with interpolated reward functions and pretrained MLE model with various temperature to approve the effectiveness of policy gradient method on language generation
 - Reproduced and improved compatibility model by implementing more robust approach on hard negative mining
 - Investigated in training the model with GAN structure by combining the compatibility model with the generation model
 
 ---
 `Jan-Jul 2021`
 __Natural Language for Human-Robot Collaboration: Problems Beyond Language Grounding__ <br>
-[<ins>*(Accepted by AI-HRI, 2021)*</ins>](https://drive.google.com/file/d/1mF2wV6LW7LyyH78HCb4L1iXLFyzfgul_/view?usp=sharing) GRAIL lab, Northeastern University, Boston, MA
+[<ins>*(Accepted by AI-HRI, 2021)*</ins>](https://arxiv.org/abs/2110.04441) GRAIL lab, Northeastern University, Boston, MA
 - Identified shortcomings and opportunities for localization, planning, and language generation in human-robot collaboration in the context of vision-language navigation
 - Proposed baseline models in each subtask as reference for further research respectively
 - Built dataset for localization task from Room2Room dataset with object detector
@@ -38,7 +39,7 @@ __Natural Language for Human-Robot Collaboration: Problems Beyond Language Groun
 ---
 `Oct 2020-Mar 2021`
 __GASCN: Graph Attention Shape Completion Network__ <br>
-[<ins>*(Accepted to 3DV, 2021)*</ins>](https://drive.google.com/file/d/1VoMU8Q99GDv1KbkigsF-E3GQsozhlkIr/view) Northeastern University, Boston, MA
+[<ins>*(Accepted by 3DV, 2021)*</ins>](https://3dv2021.surrey.ac.uk/papers/095.html) Northeastern University, Boston, MA
 - Proposed a novel shape completion model uses graph representation and attention-based permutation-invariant network
 - Introduced surface normal and adaptive grid to coarse-to-dense phase for decoding refined point cloud
 - Built dataset from ShapeNet by transforming depth images at 8 different camera poses around the object into point cloud

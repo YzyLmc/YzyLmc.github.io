@@ -9,7 +9,7 @@ I'm a master student in Robotics at [Northeastern University](https://www.northe
 
 Prior to NEU, I recevied my B.Eng at School of Mechanical Engineering and Automation of [Northeastern University (CN)](http://english.neu.edu.cn/), advised by [Prof. Yaping Zhao](http://www.me.neu.edu.cn/2015/1105/c3344a55926/pagem.htm).
 
-Currently, I'm leading a happy life with my girlfriend at Boston :)
+Currently, I'm leading a happy life with my girlfriend and my cat at Boston :)
 ## Current Interests:
 
 - Improving the performance of instruction generator for data augmentation in vision-language navigation task.
