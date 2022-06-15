@@ -4,7 +4,7 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Education
-`2018 - Now`
+`2018 - 2021`
 __Northeastern University, Boston, MA__ <br>
 Master of Science in Robotics - Computer Science <br>
 Courses: Machine Learning, Reinforcement Learning, Artificial Intelligence, Robotic Science and System, Robotic Sensing and Navigation, Control System Engineering, Mathematical Methods
@@ -20,7 +20,7 @@ Courses: Control Principles of Mechanical Engineering, Introduction to Robotics 
 _Keyword: Vision-Language navigation, Text Generation, Reinforcement Learning, Robotics_
 
 ---
-`Jan 2021-Now`
+`Jan 2021-May 2022`
 __Improving Instruction Generation for Vision-Language Navigation by Reward Designing__ <br>
 GRAIL lab, Northeastern University, Boston, MA
 - Proposed a new method to enhance the performance of language generation model for vision-language navigation by using REINFORCE with multi-modal rewards (BERTScore, VLN agents, ANN scorer)
@@ -62,7 +62,7 @@ Northeastern University, Boston, MA
 
 ## Work Experience
 
-`Jan 2021-Current`
+`Jan 2021-May 2022`
 __Research Assistant__ <br>
 GRAIL Lab, Northeastern University, Boston, MA
 - Enhance the pre-trained speaker model for vision-language generation (VLN) with reinforcement learning
