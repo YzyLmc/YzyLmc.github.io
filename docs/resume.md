@@ -4,6 +4,12 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Education
+`2022 - `
+__Brown University, Providence, RI__ <br>
+Ph.D. student in Computer Science <br>
+Courses: Computational Linguistics, Introduction to Robotics
+
+---
 `2018 - 2021`
 __Northeastern University, Boston, MA__ <br>
 Master of Science in Robotics - Computer Science <br>
