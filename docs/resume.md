@@ -7,7 +7,7 @@ menutitle: Resume
 `2022 - `
 __Brown University, Providence, RI__ <br>
 Ph.D. student in Computer Science <br>
-Courses: Computational Linguistics, Introduction to Robotics
+Courses: Computational Linguistics, Introduction to Robotics, Advanced Topics in Deep Learning
 
 ---
 `2018 - 2021`
@@ -23,14 +23,19 @@ Courses: Control Principles of Mechanical Engineering, Introduction to Robotics 
 
 
 ## Research Experience
-_Keyword: Vision-Language navigation, Text Generation, Reinforcement Learning, Robotics_
-
+<!-- _Keyword: Vision-Language navigation, Text Generation, Reinforcement Learning, Robotics_ -->
+`Jan 2023-June 2023`
+__Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification__ <br>
+Humans to Robots lab, Brown University, Providence, RI
+- Proposed a modular system for translating natrual language to linear temporal logic (LTL) for robotic navigation tasks.
+- Conducted comprehensive evaluation of the translating tasks by defining different types of holdout tests.
+- Deployed translation system and apmdp planner on a Boston Dynamics spot robot.
 ---
 `Jan 2021-May 2022`
 __Improving Instruction Generation for Vision-Language Navigation by Reward Designing__ <br>
 GRAIL lab, Northeastern University, Boston, MA
 - Proposed a new method to enhance the performance of language generation model for vision-language navigation by using REINFORCE with multi-modal rewards (BERTScore, VLN agents, ANN scorer)
--	Conducted comparison between REINFORCE model with interpolated reward functions and pretrained MLE model with various temperature to approve the effectiveness of policy gradient method on language generation
+- Conducted comparison between REINFORCE model with interpolated reward functions and pretrained MLE model with various temperature to approve the effectiveness of policy gradient method on language generation
 - Reproduced and improved compatibility model by implementing more robust approach on hard negative mining
 - Investigated in training the model with GAN structure by combining the compatibility model with the generation model
 
