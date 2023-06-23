@@ -17,7 +17,7 @@ Currently, I'm leading a happy life with my girlfriend and my cat at Providence 
 
 - Enforcing safety guarantee in language grounding for robots.
 - Interpretable intermediate representation for language grounding tasks.
-- Use language to assist reinforcement learning
+- Using natural language to assist reinforcement learning
 <!-- - Improving the performance of instruction generator for data augmentation in vision-language navigation task.-->
 <!-- - Solving the reward sparsity of reinforcement learning in the context of language generation-->
 <!-- - Implementing language grounding into real-world circumstance-->
