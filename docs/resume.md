@@ -30,6 +30,7 @@ Humans to Robots lab, Brown University, Providence, RI
 - Proposed a modular system for translating natrual language to linear temporal logic (LTL) for robotic navigation tasks.
 - Conducted comprehensive evaluation of the translating tasks by defining different types of holdout tests.
 - Deployed translation system and apmdp planner on a Boston Dynamics spot robot.
+
 ---
 `Jan 2021-May 2022`
 __Improving Instruction Generation for Vision-Language Navigation by Reward Designing__ <br>
