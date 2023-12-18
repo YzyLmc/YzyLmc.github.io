@@ -10,7 +10,7 @@ Previously, I obtained my M.S degree in Robotics at [Northeastern University](ht
 
 <!--Prior to NEU, I recevied my B.Eng at School of Mechanical Engineering and Automation of [Northeastern University (CN)](http://english.neu.edu.cn/), advised by [Prof. Yaping Zhao](http://www.me.neu.edu.cn/2015/1105/c3344a55926/pagem.htm).-->
 
-Currently, I'm leading a happy life with my girlfriend and my cat at Providence :)
+Currently, I'm leading a happy life with my girlfriend and my cat in Providence :)
 
 ---
 ## News:
