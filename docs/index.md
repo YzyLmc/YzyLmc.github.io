@@ -19,7 +19,7 @@ Currently, I'm leading a happy life with my girlfriend and my cat at Providence 
 - __09/23__: Our work [Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments](https://proceedings.mlr.press/v229/liu23d.html) is accepted by CoRL.
 - __11/22__: Our work [Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification](https://openreview.net/forum?id=VxfjGZzrdn) is accepted by LangRob workshop at CoRL.
 - __09/22__: Starting my PhD journey at Brown University! 🚀
-- __12/22__: Graduated from Northeastern University. ⛳️
+- __12/21__: Graduated from Northeastern University. ⛳️
 - __11/21__: Finished my master thesis defense titled [Improving Instruction Generation for Vision-Language Navigation by Reward Designing](https://www.proquest.com/docview/2620074733?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses).
 - __10/21__: Our work [GASCN: Graph Attention Shape Completion Network](https://ieeexplore.ieee.org/abstract/document/9665867) is accepted by 3DV.
 - __09/21__: Our work [Natural Language for Human-Robot Collaboration: Problems Beyond Language Grounding](https://arxiv.org/abs/2110.04441) is accepted by AI-HRI Symposium at AAAI-FSS.
