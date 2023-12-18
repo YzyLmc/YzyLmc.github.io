@@ -4,7 +4,7 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Education
-`2022 - `
+`2022 - Present`
 __Brown University, Providence, RI__ <br>
 Ph.D. student in Computer Science <br>
 Courses: Computational Linguistics, Introduction to Robotics, Advanced Topics in Deep Learning
@@ -23,9 +23,17 @@ Courses: Control Principles of Mechanical Engineering, Introduction to Robotics 
 
 
 ## Research Experience
-<!-- _Keyword: Vision-Language navigation, Text Generation, Reinforcement Learning, Robotics_ -->
-`Jan 2023-June 2023`
-__Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification__ <br>
+<!-- _Keyword: Language Grounding, Robotics_ -->
+`Jun 2023-Sep 2023`
+__Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents__ <br>
+- Proposed a safety constraint module for customizable constraints and integrated the proposed module into an existing LLM agent framework.
+- A fully prompting-based approach that supports predicate syntax for translating NL to LTL and explaining violation of LTL specification in NL.
+- A formal method-based action pruning and feedback for active re-planning for LLM agents.
+- Deployed the whole system in an embodied environment and on real robot platforms and conducted baseline comparisons.
+
+---
+`Jan 2023-Jun 2023`
+__Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments__ <br>
 Humans to Robots lab, Brown University, Providence, RI
 - Proposed a modular system for translating natrual language to linear temporal logic (LTL) for robotic navigation tasks.
 - Conducted comprehensive evaluation of the translating tasks by defining different types of holdout tests.
