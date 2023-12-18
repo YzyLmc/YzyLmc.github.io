@@ -26,6 +26,7 @@ Courses: Control Principles of Mechanical Engineering, Introduction to Robotics 
 <!-- _Keyword: Language Grounding, Robotics_ -->
 `Jun 2023-Sep 2023`
 __Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents__ <br>
+Humans to Robots lab, Brown University, Providence, RI
 - Proposed a safety constraint module for customizable constraints and integrated the proposed module into an existing LLM agent framework.
 - A fully prompting-based approach that supports predicate syntax for translating NL to LTL and explaining violation of LTL specification in NL.
 - A formal method-based action pruning and feedback for active re-planning for LLM agents.
