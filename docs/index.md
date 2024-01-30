@@ -14,10 +14,11 @@ Currently, I'm leading a happy life with my girlfriend and my cat in Providence 
 
 ---
 ## News:
+- __01/24__: Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is accpeted by ICRA 2024.
 - __01/24__: I'm hosting [Brown Robotics lab talks](https://h2r.github.io/brown-lab-talks/) this year!
 - __11/23__: Our work [Lang2LTL](https://proceedings.mlr.press/v229/liu23d.html) is presented at CoRL and [Safety Chip](https://openreview.net/forum?id=INvxF4iQ34) is presented at LangRob workshop.
 - __10/23__: Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://openreview.net/forum?id=INvxF4iQ34) is accepted by LangRob workshop at CoRL and presented at AI-HRI Symposium at AAAI-FSS.
-- __09/23__: Our work [Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments](https://proceedings.mlr.press/v229/liu23d.html) is accepted by CoRL.
+- __09/23__: Our work [Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments](https://proceedings.mlr.press/v229/liu23d.html) is accepted by CoRL 2023.
 - __11/22__: Our work [Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification](https://openreview.net/forum?id=VxfjGZzrdn) is accepted by LangRob workshop at CoRL.
 - __09/22__: Starting my PhD journey at Brown University! 🚀
 - __12/21__: Graduated from Northeastern University. ⛳️
