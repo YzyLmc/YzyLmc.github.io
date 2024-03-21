@@ -4,7 +4,7 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-I'm a PhD student in Computer Science at [Brown University](https://www.brown.edu/) supervised by [Prof. Stefanie Tellex](https://h2r.cs.brown.edu/people/). My interest lies in the intersection of Robotics and Nature Language. My goal is to bridge natural language and robot skills through symbol grounding and symbolic representation learning. I enjoy talking with people regarding research ideas and PhD career/application. Please feel free to email me if you would like to talk!
+I'm a PhD student in Computer Science at [Brown University](https://www.brown.edu/) supervised by [Prof. Stefanie Tellex](https://h2r.cs.brown.edu/people/). My interest lies in the intersection of Robotics and Nature Language. My goal is to bridge human mind and robot behaviors with symbolic representations. I enjoy talking with people regarding research ideas and PhD career/application. Please feel free to email me if you would like to talk!
 
 Previously, I obtained my M.S degree in Robotics at [Northeastern University](https://www.northeastern.edu/), working with [Prof. Lawson Wong](https://www.khoury.northeastern.edu/people/lawson-wong/) on the topic of vision-language navigation. I majored in Mechanical Engineering, while I later found my interest in deep learning & robotics and transferred to Robotics in 2020, after finishing my internship at [Analogic](https://www.analogic.com/).
 
