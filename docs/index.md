@@ -28,6 +28,8 @@ Currently, I'm leading a happy life with my girlfriend and my cat in Providence 
 
 ---
 ## News:
+- __[May 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is presented at ICRA 2024.
+- __[Mar 24]__ Passed my research comp defense. I'm now a PhD candidate!
 - __[Jan 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is accpeted by ICRA 2024.
 - __[Jan 24]__ I'm hosting [Brown Robotics lab talks](https://h2r.github.io/brown-lab-talks/) this year!
 - __[Nov 23]__ Our work [Lang2LTL](https://proceedings.mlr.press/v229/liu23d.html) is presented at CoRL and [Safety Chip](https://openreview.net/forum?id=INvxF4iQ34) is presented at LangRob workshop.
