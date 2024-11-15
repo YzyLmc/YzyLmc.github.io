@@ -4,7 +4,7 @@ excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
 ---
-I'm a PhD student in Computer Science at [Brown University](https://www.brown.edu/) supervised by [Prof. Stefanie Tellex](https://h2r.cs.brown.edu/people/). My interest lies in the intersection of Robotics and Nature Language. My goal is to bridge human mind and robot behaviors with structural systems (neuro-symbolic, compositional, hierarchical, etc.) I believe that [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) might be right for the past, but doesn't tell us about the future. I enjoy talking with people regarding research ideas and PhD career/application. Please feel free to email me if you would like to talk!
+I'm a PhD student in Computer Science at [Brown University](https://www.brown.edu/) supervised by [Prof. Stefanie Tellex](https://h2r.cs.brown.edu/people/). My interest lies in the intersection of Robotics and Nature Language. My goal is to bridge human concept and robot behaviors with structural systems (neuro-symbolic, compositional, hierarchical, etc.) I believe that [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) might be right for the past, but doesn't tell us about the future. I enjoy talking with people regarding research ideas and PhD career/application. Please feel free to email me if you would like to talk!
 
 Previously, I obtained my M.S degree in Robotics at [Northeastern University](https://www.northeastern.edu/), working with [Prof. Lawson Wong](https://www.khoury.northeastern.edu/people/lawson-wong/) on the topic of vision-language navigation. I had a background in Mechanical Engineering, while I later found my interest in deep learning & robotics and transferred to the field of robotics in 2020, after finishing my internship at [Analogic](https://www.analogic.com/).
 
@@ -15,19 +15,21 @@ Currently, I'm leading a happy life with my girlfriend and my cat in Providence 
 ---
 ## Current Interests:
 
-- Representation learning for different "concepts" in robot learning, e.g., motor skills, temporal dependency, abstraction of events.
+- Representation learning for different "concepts" in robot learning, e.g., motor skills, temporal dependency, events.
 - Using natural language to assist robot learning and planning.
-- Interpretable intermediate representation for robotic tasks.
-- Leveraging the abilities of foundation models through composition for embodied reasoning.
+- Interpretable representation for robotic tasks.
+- Leveraging large pretrained models for embodied reasoning.
 <!-- - Enforcing safety guarantee in language grounding for robots. -->
 <!-- - Improving the performance of instruction generator for data augmentation in vision-language navigation task.-->
 <!-- - Solving the reward sparsity of reinforcement learning in the context of language generation-->
 <!-- - Implementing language grounding into real-world circumstance-->
 - *Reading manga.* [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) is my GOAT. Here is [my manga rating page](https://butternut-bagpipe-9e8.notion.site/Manga-ff90216138c54dadbd48a88221c330c1).
-- (Last updated: 3/30/24)
+- *I miss the old Kanye.*
+- (Last updated: 11/14/24)
 
 ---
 ## News:
+- __[Nov 24]__ Our work [SkillWrapper: Skill Abstraction in the Era of Foundation Model](https://openreview.net/forum?id=5z8AJP5G8c&referrer=%5Bthe%20profile%20of%20Ziyi%20Yang%5D(%2Fprofile%3Fid%3D~Ziyi_Yang3)) is accepted and presented at LEAP workshop.
 - __[May 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is presented at ICRA 2024.
 - __[Mar 24]__ Passed my research comp defense. I'm now a PhD candidate!
 - __[Jan 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is accpeted by ICRA 2024.
