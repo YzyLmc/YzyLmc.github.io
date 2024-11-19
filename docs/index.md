@@ -15,7 +15,7 @@ Currently, I'm leading a happy life with my girlfriend and my cat in Providence 
 ---
 ## Current Interests:
 
-- Representation learning for different "concepts" in robot learning, e.g., motor skills, spatial & temporal dependency, events.
+- Representation learning for different "concepts" in robot learning, e.g., motor skills, spatial & temporal relationships, events.
 - Using natural language to assist robot learning and planning.
 - Interpretable representation for robotic tasks.
 - Leveraging large pretrained models for embodied reasoning.
