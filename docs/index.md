@@ -24,7 +24,7 @@ Currently, I'm leading a happy life with my girlfriend and my cat in Providence 
 <!-- - Solving the reward sparsity of reinforcement learning in the context of language generation-->
 <!-- - Implementing language grounding into real-world circumstance-->
 - *Reading manga.* [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) is my GOAT. Here is [my manga rating page](https://butternut-bagpipe-9e8.notion.site/Manga-ff90216138c54dadbd48a88221c330c1).
-- *The Binding of Isaac.*
+- [*The Binding of Isaac.*](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)
 - (Last updated: 11/14/24)
 
 ---
