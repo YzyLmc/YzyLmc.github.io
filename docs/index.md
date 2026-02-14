@@ -29,7 +29,7 @@ Currently, I'm leading a happy life with my <s>girlfriend</s> <s>fiancé</s> wif
 
 ---
 ## News:
-- __[Nov 24]__ Our work [SkillWrapper: Skill Abstraction in the Era of Foundation Model](https://openreview.net/forum?id=5z8AJP5G8c&referrer=%5Bthe%20profile%20of%20Ziyi%20Yang%5D(%2Fprofile%3Fid%3D~Ziyi_Yang3)) is accepted and presented at LEAP workshop.
+- __[Nov 24]__ Our work [SkillWrapper: Skill Abstraction in the Era of Foundation Model](https://arxiv.org/abs/2511.18203) is accepted and presented at LEAP workshop.
 - __[May 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is presented at ICRA 2024.
 - __[Mar 24]__ Passed my research comp defense. I'm now a PhD candidate!
 - __[Jan 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is accpeted by ICRA 2024.
