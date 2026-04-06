@@ -15,31 +15,36 @@ Currently, I'm leading a happy life with my <s>girlfriend</s> <s>fiancé</s> wif
 ---
 ## Current Interests:
 
-- Representation learning for different "concepts" in robot learning, e.g., motor skills, spatial & temporal relationships, events.
-- Using natural language to assist robot learning and planning.
-- Interpretable representation for robotic tasks.
+- Representation and abstraction learning for different "concepts" in robotics, e.g., motor skills, objects, spatial & temporal relationships.
+- Skill dicovery and skill composition from robot demonstrations.
+- Language grounding in robot learning and task-level planning.
+<!-- - Interpretable representation for robotic tasks. -->
 - Leveraging large pretrained models for embodied reasoning.
 <!-- - Enforcing safety guarantee in language grounding for robots. -->
 <!-- - Improving the performance of instruction generator for data augmentation in vision-language navigation task.-->
 <!-- - Solving the reward sparsity of reinforcement learning in the context of language generation-->
 <!-- - Implementing language grounding into real-world circumstance-->
 - *Reading manga.* [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) is my GOAT. Here is [my manga rating page](https://butternut-bagpipe-9e8.notion.site/Manga-ff90216138c54dadbd48a88221c330c1).
-- [*The Binding of Isaac.*](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/)
-- (Last updated: 11/14/24)
+- [*The Binding of Isaac.*](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) (1000+ hrs on record)
+- (Last updated: Apr 26)
 
 ---
 ## News:
-- __[Nov 24]__ Our work [SkillWrapper: Skill Abstraction in the Era of Foundation Model](https://arxiv.org/abs/2511.18203) is accepted and presented at LEAP workshop.
-- __[May 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is presented at ICRA 2024.
+- __[Apr 26]__ Our work [Language Model as Planner and Formalizer under Constraints](https://arxiv.org/abs/2510.05486) is accpeted by ACL 2026.
+- __[Jan 26]__ Our work [Task and Skill Planning: Hierarchical Robot Planning with Black-Box Skills](http://irl.cs.brown.edu/pubs/tasp_icra.pdf) is accpeted by ICRA 2026.
+- __[Nov 25]__ Our work [Least Commitment Planning for the Object Scouting Problem](https://ieeexplore.ieee.org/abstract/document/11246625) is accpeted by IROS 2025.
+- __[Nov 25]__ Passed my thesis proposal titled __"Connecting Robotics, Language, and Planning with Symbols"__ [[slides]](https://docs.google.com/presentation/d/1sIcSYUFVk3MHVKXmbtq5_B6M8QN55K1JEZipSCzsLqk/edit?usp=sharing) [[video]](https://brown.zoom.us/rec/share/ysLoMcmNkVjIob2yhIbree_eEYHHBfOYyEb7jDI55e4CpmKAmtdteib5XA7HWKRg.aoJDFLJK3rM0lWVd) (Committee: _Stefaine Tellex, George Konidaris, Jiayuan Mao_).
+- __[May 25]__ Our work [SkillWrapper: Skill Abstraction in the Era of Foundation Model](https://arxiv.org/abs/2511.18203) won Best Poster Award at [Language and Semantics of Task and Motion Planning](https://dyalab.mines.edu/2025/icra-workshop/) workshop at ICRA 2025 for 💸$500💸.
+<!-- - __[May 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is presented at ICRA 2024. -->
 - __[Mar 24]__ Passed my research comp defense. I'm now a PhD candidate!
 - __[Jan 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is accpeted by ICRA 2024.
 - __[Jan 24]__ I'm hosting [Brown Robotics lab talks](https://h2r.github.io/brown-lab-talks/) this year!
-- __[Nov 23]__ Our work [Lang2LTL](https://proceedings.mlr.press/v229/liu23d.html) is presented at CoRL and [Safety Chip](https://openreview.net/forum?id=INvxF4iQ34) is presented at LangRob workshop.
-- __[Oct 23]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://openreview.net/forum?id=INvxF4iQ34) is accepted by LangRob workshop at CoRL and presented at AI-HRI Symposium at AAAI-FSS.
+<!-- - __[Nov 23]__ Our work [Lang2LTL](https://proceedings.mlr.press/v229/liu23d.html) is presented at CoRL and [Safety Chip](https://openreview.net/forum?id=INvxF4iQ34) is presented at LangRob workshop. -->
+<!-- - __[Oct 23]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://openreview.net/forum?id=INvxF4iQ34) is accepted by LangRob workshop at CoRL and presented at AI-HRI Symposium at AAAI-FSS. -->
 - __[Sep 23]__ Our work [Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments](https://proceedings.mlr.press/v229/liu23d.html) is accepted by CoRL 2023.
-- __[Nov 22]__ Our work [Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification](https://openreview.net/forum?id=VxfjGZzrdn) is accepted by LangRob workshop at CoRL.
+<!-- - __[Nov 22]__ Our work [Lang2LTL: Translating Natural Language Commands to Temporal Robot Task Specification](https://openreview.net/forum?id=VxfjGZzrdn) is accepted by LangRob workshop at CoRL. -->
 - __[Sep 22]__ Starting my PhD journey at Brown University! 🚀
-- __[Dec 21]__ Graduated from Northeastern University. ⛳️
+<!-- - __[Dec 21]__ Graduated from Northeastern University. ⛳️ -->
 - __[Nov 21]__ Finished my master thesis defense titled [Improving Instruction Generation for Vision-Language Navigation by Reward Designing](https://www.proquest.com/docview/2620074733?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses).
 - __[Oct 21]__ Our work [GASCN: Graph Attention Shape Completion Network](https://ieeexplore.ieee.org/abstract/document/9665867) is accepted by 3DV.
 - __[Sep 21]__ Our work [Natural Language for Human-Robot Collaboration: Problems Beyond Language Grounding](https://arxiv.org/abs/2110.04441) is accepted by AI-HRI Symposium at AAAI-FSS.
