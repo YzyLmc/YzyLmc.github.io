@@ -25,12 +25,12 @@ Currently, I'm leading a happy life with my <s>girlfriend</s> <s>fiancé</s> wif
 <!-- - Solving the reward sparsity of reinforcement learning in the context of language generation-->
 <!-- - Implementing language grounding into real-world circumstance-->
 - *Reading manga.* [Osamu Tezuka](https://en.wikipedia.org/wiki/Osamu_Tezuka) is my GOAT. Here is [my manga rating page](https://butternut-bagpipe-9e8.notion.site/Manga-ff90216138c54dadbd48a88221c330c1).
-- [*The Binding of Isaac.*](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) (1000+ hrs on record)
+- [*The Binding of Isaac.*](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) (1200+ hrs on record)
 - (Last updated: Apr 26)
 
 ---
 ## News:
-- __[Apr 26]__ Our work [Language Model as Planner and Formalizer under Constraints](https://arxiv.org/abs/2510.05486) is accpeted by ACL 2026.
+- __[Apr 26]__ Our work [Language Model as Planner and Formalizer under Constraints](https://arxiv.org/abs/2510.05486) is accpeted by ACL 2026 main conference.
 - __[Jan 26]__ Our work [Task and Skill Planning: Hierarchical Robot Planning with Black-Box Skills](http://irl.cs.brown.edu/pubs/tasp_icra.pdf) is accpeted by ICRA 2026.
 - __[Nov 25]__ Our work [Least Commitment Planning for the Object Scouting Problem](https://ieeexplore.ieee.org/abstract/document/11246625) is accpeted by IROS 2025.
 - __[Nov 25]__ Passed my thesis proposal titled __"Connecting Robotics, Language, and Planning with Symbols"__ [[slides]](https://docs.google.com/presentation/d/1sIcSYUFVk3MHVKXmbtq5_B6M8QN55K1JEZipSCzsLqk/edit?usp=sharing) [[video]](https://brown.zoom.us/rec/share/ysLoMcmNkVjIob2yhIbree_eEYHHBfOYyEb7jDI55e4CpmKAmtdteib5XA7HWKRg.aoJDFLJK3rM0lWVd) (Committee: _Stefaine Tellex, George Konidaris, Jiayuan Mao_).
