@@ -8,7 +8,7 @@ I am a Computer Science PhD student at [Brown University](https://www.brown.edu/
 <!-- My interest lies in the intersection of Robotics, Language, and Planning.  -->
 My research lives at the intersection of __Robotics, Language, and Planning__.
 Broadly, I aim to bridge the gap between abstract human concepts and physical robot behaviors. I am particularly interested in building structural systems (e.g., neuro-symbolic, compositional, and hierarchical) to make these interactions more seamless. 
-Here is a <a href="images/rlp.png" target="_blank">sketch</a> of the framework I proposed.
+Here is a <a href="images/rlp.png" target="_blank">_sketch_</a> of the framework I proposed.
 <!-- My goal is to bridge human concept and robot behaviors with structural systems (neuro-symbolic, compositional, hierarchical, etc.)  -->
 <!-- I believe that [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) might be right for the past, but doesn't tell us about the future.  --> 
 For a deeper dive into my work, feel free to check my [thesis proposal](#thesis-proposal).
@@ -44,8 +44,8 @@ Outside of the lab, I'm leading a happy life with my <s>girlfriend</s> <s>fianc�
 ## News:
 - __[Apr 26]__ Our work [Language Model as Planner and Formalizer under Constraints](https://arxiv.org/abs/2510.05486) is accpeted by <span class="conf">ACL 2026</span> main conference.
 - __[Jan 26]__ Our work [Task and Skill Planning: Hierarchical Robot Planning with Black-Box Skills](http://irl.cs.brown.edu/pubs/tasp_icra.pdf) is accpeted by <span class="conf">ICRA 2026</span>.
-- __[Nov 25]__ Our work [Least Commitment Planning for the Object Scouting Problem](https://ieeexplore.ieee.org/abstract/document/11246625) is accpeted by <span class="conf">IROS 2025</span>.
 - <span id="thesis-proposal">__[Nov 25]__ Passed my thesis proposal titled __"Connecting Robotics, Language, and Planning with Symbols"__ [[slides](https://docs.google.com/presentation/d/1sIcSYUFVk3MHVKXmbtq5_B6M8QN55K1JEZipSCzsLqk/edit?usp=sharing)] [[video](https://brown.zoom.us/rec/share/ysLoMcmNkVjIob2yhIbree_eEYHHBfOYyEb7jDI55e4CpmKAmtdteib5XA7HWKRg.aoJDFLJK3rM0lWVd)] (Committee: _Stefaine Tellex, George Konidaris, Jiayuan Mao_).</span>
+- __[June 25]__ Our work [Least Commitment Planning for the Object Scouting Problem](https://ieeexplore.ieee.org/abstract/document/11246625) is accpeted by <span class="conf">IROS 2025</span>.
 - __[May 25]__ Our work [SkillWrapper: Generative Predicate Invention for Task-level Planning](https://arxiv.org/abs/2511.18203) won Best Poster Award at [Language and Semantics of Task and Motion Planning](https://dyalab.mines.edu/2025/icra-workshop/) workshop at <span class="conf">ICRA 2025</span> for 💸$500💸.
 <!-- - __[May 24]__ Our work [Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/abs/2309.09919) is presented at ICRA 2024. -->
 - __[Mar 24]__ Passed my research comp defense. I'm now a PhD candidate!
