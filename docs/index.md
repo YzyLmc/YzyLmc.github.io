@@ -42,6 +42,7 @@ Outside of the lab, I'm leading a happy life with my <s>girlfriend</s> <s>fianc√
 <div class="news-section" markdown="1">
 
 ## News:
+- __[Apr 26]__ Invited talk at University of Toronto ([Sheila Mcllraith](https://www.cs.toronto.edu/~sheila/)'s group) [[slides](https://drive.google.com/file/d/1W9E4gobZus3BRR2wgmr88tByLrubYckI/view?usp=drive_link)].
 - __[Apr 26]__ Our work [Language Model as Planner and Formalizer under Constraints](https://arxiv.org/abs/2510.05486) is accpeted by <span class="conf">ACL 2026</span> main conference.
 - __[Jan 26]__ Our work [Task and Skill Planning: Hierarchical Robot Planning with Black-Box Skills](http://irl.cs.brown.edu/pubs/tasp_icra.pdf) is accpeted by <span class="conf">ICRA 2026</span>.
 - <span id="thesis-proposal">__[Nov 25]__ Passed my thesis proposal titled __"Connecting Robotics, Language, and Planning with Symbols"__ [[slides](https://docs.google.com/presentation/d/1sIcSYUFVk3MHVKXmbtq5_B6M8QN55K1JEZipSCzsLqk/edit?usp=sharing)] [[video](https://brown.zoom.us/rec/share/ysLoMcmNkVjIob2yhIbree_eEYHHBfOYyEb7jDI55e4CpmKAmtdteib5XA7HWKRg.aoJDFLJK3rM0lWVd)] (Committee: _Stefaine Tellex, George Konidaris, Jiayuan Mao_).</span>
